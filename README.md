@@ -1,7 +1,6 @@
 # Quirk-Interpreter
 
-A full interpreter (lexer, parser, interpreter) written in Python for Quirk, a simple programming language
-made by our professor for the purposes of the class.
+A full interpreter (lexer, parser, interpreter) written in Python for Quirk, a simple programming language.
 
 To use:
 
